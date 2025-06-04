@@ -1,0 +1,16 @@
+{
+  "name": "DaidFInal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Daniel-jpg1/Daid-Personal.git",
+  "author": "Daniel-jpg1 <carlosdanield.alves@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "vite": "^6.3.5"
+  },
+ "scripts": {
+  "dev": "vite --host"
+}
+
+}
